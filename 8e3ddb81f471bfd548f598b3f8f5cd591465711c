@@ -1,0 +1,15 @@
+{
+    "readmes": [
+      "{REPO_NAME}/README.md"
+    ],
+    "license": "MIT",
+    "license_file": "LICENSE.md",
+    "creation_date": "2021-02-22",
+    "contributors_count": 179,
+    "languages": {
+      "markdown": 0.5,
+      "c": 0.5
+    },
+    "images": [],
+    "remote_images": []
+}
